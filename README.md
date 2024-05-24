@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá a todos visitantes, sejam bem vindos ao meu perfil 🐺
 
-<!--
-**Anajubaluba/Anajubaluba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Júlia 
 
-Here are some ideas to get you started:
+- Estou realizando o curso do [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aprendendo sobre linguagem JavaScript
+
+- Irei utilizar esse espaço para compartilhamento e organização de meus projetos
+
+  ### Você pode entrar em contato comigo 📬
+
+  00001087542777sp@al.educacao.sp.gov.br
+
+  ![](https://media1.tenor.com/m/P_5FDKCBDgsAAAAC/twilight.gif)
+  
